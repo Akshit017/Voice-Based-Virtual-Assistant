@@ -5,3 +5,5 @@ Features Voice Interaction: The virtual assistant can understand and respond to 
 System Requirements To run the Voice-Based Virtual Assistant, the following system requirements are recommended:
 
 Operating System: Windows 10, macOS, Linux, or a mobile operating system (Android, iOS) Processor: Intel Core i5 or equivalent (or higher) RAM: 8 GB (or higher) Microphone: Built-in or external microphone for voice input Internet Connection: Required for online functionality and accessing web-based services Disk Space: Sufficient free disk space to install the application and its dependencies
+
+YouTube Video Link : https://youtu.be/N63YCbsDndQ
